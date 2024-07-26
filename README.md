@@ -2,7 +2,7 @@
 
 ## Description 🥤🍼
 
-Milkshaker is a Solana VolumeBot/Washtrader that continuously uptrends the chart, increases volume, and trade count.\
+Solana VolumeBot/Washtrader that continuously uptrends the chart, increases volume, and trade count.\
 It allows you to create or use existing wallets, perform trading patterns, and provides analytics of the trading session.
 
 ## Benefits 🥤🍼
