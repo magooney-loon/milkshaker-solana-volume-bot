@@ -18,7 +18,7 @@ It allows you to create or use existing wallets, perform trading patterns, and p
 - Multiple Milkshake Modes (Safe, Normal, Aggressive, or Custom)
 - Trading patterns: Ze Pump (batch buy), Ze Dump (big selloff), MilkShaking (buy/sell in groups of wallets)
 - Choose session duration or target SOL volume
-- Analytics: Single analytic report, Single token report, Lifetime report, Full wallet action etc.
+- Single analytic report, Single token report, Lifetime report, Full wallet action etc.
 - Recall ALL SOL to your main wallet
 - Backup of created wallets and analytics
 - Music player with visualizations!
