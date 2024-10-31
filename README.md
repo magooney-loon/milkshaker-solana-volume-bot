@@ -33,7 +33,7 @@ It allows you to create or use existing wallets, perform trading patterns, and p
 
 ![recall](https://github.com/user-attachments/assets/c6849ca4-80d2-4f8e-8d70-f946c12171ba)
 
-![report](https://github.com/user-attachments/assets/65c1af49-1352-4229-ae20-2bd80c9438d5)
+![report](https://github.com/user-attachments/assets/d0cec327-74d4-439e-9f0b-151fa808f0f4)
 
 
 ## Contact 🥤🍼
