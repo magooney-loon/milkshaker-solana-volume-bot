@@ -1,3 +1,20 @@
+## BIGGEST UPDATE SO FAR ##
+
+Web UI! Visit https://bonerbot.tech/
+
+
+
+![bonerbanner](https://github.com/user-attachments/assets/1aacafba-c390-48d4-bb1c-10fa73ca3490)
+
+
+
+
+
+
+
+
+## OLD v1 README ##
+
 # ![extras](https://github.com/user-attachments/assets/dffc4a82-d949-4810-bf33-e532a7ee6d2a)
 
 ## Description 🥤🍼
@@ -33,12 +50,7 @@ It allows you to create or use existing wallets, perform trading patterns, and p
 
 ![recall](https://github.com/user-attachments/assets/c6849ca4-80d2-4f8e-8d70-f946c12171ba)
 
-![image](https://github.com/user-attachments/assets/b18a7f3a-ca28-404e-a760-e0d81f4c3d0d)
+![Screenshot 2025-01-24 231100](https://github.com/user-attachments/assets/43d53a8c-009b-4623-a4dd-868b25dd3422)
 
 
 
-
-
-## Contact 🥤🍼
-
-Telegram: @malooney_goon (https://t.me/malooney_goon).
