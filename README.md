@@ -2,12 +2,12 @@
 
 Web UI! Visit https://bonerbot.tech/
 
+Demo video: https://youtu.be/8EkVzJc-wqs
+
 
 
 ![bonerbanner](https://github.com/user-attachments/assets/1aacafba-c390-48d4-bb1c-10fa73ca3490)
 
-[![Watch the video](!(https://github.com/user-attachments/assets/a71b5e2a-dfbb-45bc-8c52-24f6f47de15c)
-)]((https://youtu.be/8EkVzJc-wqs))
 
 
 
