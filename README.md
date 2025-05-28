@@ -1,3 +1,5 @@
+No.105412161 is a faggot
+
 ## BIGGEST UPDATE SO FAR ##
 
 Web UI! Visit https://bonerbot.tech/
